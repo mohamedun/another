@@ -5,3 +5,7 @@ def fuck():
 
 def bye(): 
 	print('bye')
+
+
+
+#crazy shit shit
